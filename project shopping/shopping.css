@@ -1,0 +1,158 @@
+.head1{
+	width: 100%;
+	height: 10vh;
+	background-color: #454440;
+}
+.dk{
+	height: 8vh;
+	width: 10%;
+	margin-left: 2%;
+}
+
+.dk1{
+	width: 30%;
+	margin-left: 5%;
+	background-color: black;
+	height: 5vh;
+	margin-top: 3vh;
+	
+
+}
+.head2{
+	display: flex;
+	margin-top: 5vh;
+	color: white;
+	font-size: 20px;
+	}
+
+.dk2{
+	display: flex;
+}
+.head3{
+	height: 40vh;
+	width: 80%;
+	margin-left: 3%;
+}
+.head4{
+	width: 90%;
+	height: 20vh;
+	background-color: grey;
+	margin-top: 20vh;
+	margin-left: 5%;
+}
+.head5{
+    width: 100%;
+    height: 20h;
+
+}
+.head6{
+	height: 20vh;
+	width: 11%;
+	background-color: yellow;
+	margin-top: 6vh;
+	margin-left: 5%;
+}
+.head7{
+	display: flex;
+	
+}
+.head8{
+	height: 15vh;
+	width: 70%;
+	background-color: whitesmoke;
+	margin-top: 6vh;
+	margin-left: 16%;
+}
+.head9{
+	height: 10vh;
+	width: 100%;
+
+}
+.head10{
+	height: 45vh;
+	width: 40%;
+	background-color: grey;
+	margin-left: 8%;
+}
+.head11{
+	display: flex;
+}
+.head12{
+	height: 45vh;
+	width: 100%;
+}
+.head13{
+	width: 92%;
+	height: 20vh;
+	background-color: grey;
+	margin-top: 3vh;
+	margin-left: 5%;
+}
+.head14{
+	width: 100%;
+	height: 20vh;
+}
+.head15{
+	height: 15vh;
+	width: 70%;
+	background-color: yellow;
+	margin-top: 2vh;
+	margin-left: 16%;
+}
+.head16{
+	height: 15vh;
+	width: 100%;
+}
+.head17{
+	height: 40vh;
+	width: 17%;
+	background-color: grey;
+	margin-left: 5%;
+}
+.head18{
+	height: 40vh;
+	width: 100%;
+}
+.head19{
+	display: flex;
+	margin-left: 10%;
+}
+.head20{
+	height: 40vh;
+	width: 100%;
+	margin-left: 10%;
+	margin-top: 4vh;
+}
+.head21{
+	height: 15vh;
+	width: 70%;
+	background-color: yellow;
+	margin-top: 5vh;
+	margin-left: 16%;
+}
+.head22{
+	height: 15vh;
+	width: 100%;
+}
+.head23{
+	margin-left: 40%;
+	font-size: 40px;
+}
+.head24{
+	height: 20vh;
+	width: 90%;
+	background-color: grey;
+	margin-top: 3vh;
+	margin-left: 8%;
+}
+.head25{
+	height: 20vh;
+	width: 100%;
+}
+.head26{
+	height: 40vh;
+    width: 100%;
+    background-color: lightgrey;
+    margin-top: 3vh;
+    
+}
